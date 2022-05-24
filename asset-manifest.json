@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.534816e6.chunk.css",
+    "main.js": "/static/js/main.4d9a49a5.chunk.js",
+    "main.js.map": "/static/js/main.4d9a49a5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6fa9567.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6fa9567.js.map",
+    "static/js/2.43516913.chunk.js": "/static/js/2.43516913.chunk.js",
+    "static/js/2.43516913.chunk.js.map": "/static/js/2.43516913.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c393790ee06c34870977382bee104e95.js": "/precache-manifest.c393790ee06c34870977382bee104e95.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.534816e6.chunk.css.map": "/static/css/main.534816e6.chunk.css.map",
+    "static/js/2.43516913.chunk.js.LICENSE.txt": "/static/js/2.43516913.chunk.js.LICENSE.txt",
+    "static/media/Firewires.png": "/static/media/Firewires.91a25158.png",
+    "static/media/Picaday.png": "/static/media/Picaday.98fb7b90.png",
+    "static/media/barko13p.png": "/static/media/barko13p.17547e8c.png",
+    "static/media/covhelp.png": "/static/media/covhelp.44d11d87.png",
+    "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/features-split-image-01.png": "/static/media/features-split-image-01.268be14f.png",
+    "static/media/firebase.svg": "/static/media/firebase.1da8d950.svg",
+    "static/media/javaScript.svg": "/static/media/javaScript.29c015fa.svg",
+    "static/media/python.svg": "/static/media/python.53d0c384.svg",
+    "static/media/react-native.svg": "/static/media/react-native.de6d6eaf.svg",
+    "static/media/redux.svg": "/static/media/redux.92a4fd2e.svg",
+    "static/media/tensorflow.svg": "/static/media/tensorflow.83a5879c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6fa9567.js",
+    "static/js/2.43516913.chunk.js",
+    "static/css/main.534816e6.chunk.css",
+    "static/js/main.4d9a49a5.chunk.js"
+  ]
+}
